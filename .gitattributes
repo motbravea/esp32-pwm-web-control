@@ -1,0 +1,5 @@
+# Keep source and documentation normalized across systems
+* text=auto
+*.ino text eol=lf
+*.h text eol=lf
+*.md text eol=lf
