@@ -1,0 +1,22 @@
+# Wi-Fi credentials and secrets
+config.h
+**/config.h
+*.local.h
+.env
+.env.*
+*.secret
+
+# Build artifacts
+*.bin
+*.elf
+*.map
+*.hex
+*.uf2
+build/
+.pio/
+
+# Editor and OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
